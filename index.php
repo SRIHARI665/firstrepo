@@ -3,3 +3,5 @@ NAME ="SRI HARI"
 PLACE="VIZAG"
 
 COLLEGE="UNH"
+
+check
